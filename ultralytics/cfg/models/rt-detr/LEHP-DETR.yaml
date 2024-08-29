@@ -31,7 +31,6 @@ backbone:
   # elan-2 block
   - [ -1, 1, RepNCSPELAN4, [ 512, 256, 128, 1 ] ]  # 8-P5/32
 
-  #注意力机制
   - [ -1, 1, ContextAggregation, [ 512 ] ]  # 9
 
 head:
