@@ -1,4 +1,7 @@
-# LEHP-DETR improvement project based on [ultralytics](https://github.com/ultralytics/ultralytics)
+#LEHP-DETR
+
+
+# LEHP-DETR improvement project based on [ultralytics](https://github.com/ultralytics/ultralytics) and [RT-DETR](https://github.com/lyuwenyu/RT-DETR)
 
     The version of ultralytics used in this project is 8.0.201, identified by __version__ in ultralytics/__init__.py.
 
