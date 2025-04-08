@@ -1,4 +1,3 @@
-from mmcv.cnn import ConvModule
 class ContextAggregation(nn.Module):
     """
     Context Aggregation Block.
